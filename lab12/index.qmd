@@ -3,7 +3,7 @@ title: "Lab 12"
 description: "This is a trial website for my final"
 ---
 
-This is a \**new\** Quarto website!!
+This is a \**new\** Quarto website!!!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
