@@ -1,6 +1,6 @@
 ---
 title: "Lab 12"
-description: "this is a trial website for my final"
+description: "This is a trial website for my final"
 ---
 
 This is a Quarto website.
